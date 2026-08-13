@@ -2,6 +2,8 @@
 
 ### Marketing Professional | Full Stack Web Developer | Web Applications | E-commerce | Digital Solutions
 
+![Araceli Tisocco - GitHub Banner](./araceli_github_banner.png)
+
 ---
 
 ## 💼 Sobre mí
