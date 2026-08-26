@@ -92,7 +92,6 @@ El sistema permite:
 ## 📫 Contacto y redes
 
 - 🌐 **Página web:** [aracelitisocco.com](https://aracelitisocco.com/)
-- 💼 **LinkedIn:** [linkedin.com/in/tisoccoaraceli](https://www.linkedin.com/in/tisoccoaraceli)
 - 📘 **Facebook:** [facebook.com/tisoccoaraceli](https://www.facebook.com/tisoccoaraceli)
 - 📸 **Instagram:** [@tisoccoaraceli](https://www.instagram.com/tisoccoaraceli)
 - ▶️ **YouTube:** [@AraceliTisocco](https://www.youtube.com/@AraceliTisocco)
