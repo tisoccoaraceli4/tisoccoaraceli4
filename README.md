@@ -72,7 +72,7 @@ El sistema permite:
 
 **Tecnologías utilizadas:** Angular · TypeScript · PrimeNG · NestJS · Node.js · TypeORM · PostgreSQL · Nginx
 
-🎥 **[Ver demo del sistema en YouTube](https://youtu.be/ekRyaEgyAbg)**
+🎥 **[Ver demo del sistema en YouTube](https://youtu.be/XkpsWrzXVts?si=9HtEwMtNpx2wR-mq)**
 
 ---
 
