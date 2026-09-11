@@ -21,7 +21,6 @@ Me caracterizo por ser una persona responsable, comprometida, organizada y con u
 ## 🛠️ Tecnologías y herramientas
 
 ### Frontend
-
 - Angular
 - TypeScript
 - HTML
@@ -30,20 +29,21 @@ Me caracterizo por ser una persona responsable, comprometida, organizada y con u
 - RxJS
 
 ### Backend
-
 - Node.js
 - NestJS
 - TypeScript
+- JavaScript
 - Express
 - JWT
+- Nodemailer
+- express-validator
 
 ### Base de datos
-
 - PostgreSQL
+- MySQL
 - TypeORM
 
 ### Herramientas y tecnologías
-
 - Git
 - GitHub
 - Visual Studio Code
