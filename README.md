@@ -99,8 +99,6 @@ El sistema permite:
 
 ---
 
----
-
 ## 💡 Áreas de interés
 
 - Desarrollo de aplicaciones web
