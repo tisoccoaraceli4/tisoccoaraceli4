@@ -76,6 +76,31 @@ El sistema permite:
 
 ---
 
+### 🚀 Creación de API REST
+
+API REST desarrollada para la gestión integral de un sistema de reservas de salones, permitiendo administrar usuarios, reservas, salones, servicios y turnos.
+
+El sistema permite:
+
+- 🔐 Autenticación mediante **JSON Web Token (JWT)**.
+- 👥 Autorización por roles: **Administrador, Empleado y Cliente**.
+- 👤 Registrar usuarios de tipo cliente.
+- 🔑 Gestionar el reinicio de contraseña.
+- 📅 Crear y administrar reservas, salones, servicios y turnos.
+- ✉️ Enviar notificaciones automáticas por correo electrónico mediante **Nodemailer**.
+- 📊 Generar informes estadísticos mediante procedimientos almacenados en **MySQL**.
+- 📄 Exportar informes de reservas en formato **PDF y CSV**.
+- ✅ Validar los datos recibidos mediante **express-validator**.
+- 📚 Documentar y probar los endpoints mediante **Swagger**.
+
+**Tecnologías utilizadas:** JavaScript · Node.js · Express.js · MySQL · JWT · express-validator · Swagger · Nodemailer
+
+🎥 [Ver demo de la API REST en YouTube](https://youtu.be/Iey5Mg0Pqw4?si=x52F3Lp1kZat-OjI)
+
+---
+
+---
+
 ## 💡 Áreas de interés
 
 - Desarrollo de aplicaciones web
